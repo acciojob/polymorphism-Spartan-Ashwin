@@ -23,7 +23,7 @@ public class Main {
         Product p=new Product();
       int ans1=  p.product(2,3);
       int ans2=p.product(2,3,4);
-      double ans3=p.product(2.1,4.4);
+      double ans3=p.product(2.34,4.33);
       System.out.println(ans1+" "+ans2+" "+ans3);
 
 
